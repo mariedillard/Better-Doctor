@@ -12,7 +12,7 @@ _A simple web app to help you find a range of doctor's in the Seattle area._
     Input: "arthritis" 
     Output: "Doctors Available"
 * _A user should be able to to enter a name to receive a list of doctors in the Portland area that fit the search query._
-    Input: "arthritis"
+    Input: "jane"
     Output: Practice Name: Arthritis and Pain Clinic of Seattle
             Practitioner: Jane Doe MD 
             Street Address: Seattle WA 666 666th Ave NW 982101
